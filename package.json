@@ -1,0 +1,26 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LelonDelonMelon/PCAT_PatikaNodejs.git"
+  },
+  "keywords": [
+    "photo",
+    "upload"
+  ],
+  "author": "Burak Katı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LelonDelonMelon/PCAT_PatikaNodejs/issues"
+  },
+  "homepage": "https://github.com/LelonDelonMelon/PCAT_PatikaNodejs#readme",
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}
